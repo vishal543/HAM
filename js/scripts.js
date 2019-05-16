@@ -1,10 +1,10 @@
 /*-----------------------------------------------------------------------------------
 
-    Theme Name: Coco
-    Theme URI: http://
-    Description: The Multi-Purpose Onepage Template
-    Author: UI-ThemeZ
-    Author URI: http://themeforest.net/user/UI-ThemeZ
+    Theme Name: HAM
+    Theme URI: http://hamgroup.in
+    Description: Hyderabad Activity Management
+    Author: HAM
+    Author URI: http://hamgroup.in
     Version: 1.0
 
 -----------------------------------------------------------------------------------*/
