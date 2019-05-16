@@ -1516,7 +1516,7 @@ footer p {
   .navbar .navbar-collapse {
     max-height: 340px;
     overflow: auto;
-    background: #111;
+    background: #ff9966;
     text-align: center;
     padding: 10px 0;
   }
@@ -1539,10 +1539,10 @@ footer p {
     background-position: 50% 0% !important;
   }
   .header .caption h4 {
-    font-size: 30px;
+    font-size: 20px;
   }
-  .header .caption h1 {
-    font-size: 45px;
+  .header .caption h3 {
+    font-size: 15px;
     line-height: 1.4;
   }
 
@@ -1609,10 +1609,10 @@ footer p {
 }
 @media screen and (max-width: 480px) {
   .header .caption h4 {
-    font-size: 14px;
+    font-size: 13px;
   }
-  .header .caption h1 {
-    font-size: 25px;
+  .header .caption h3 {
+    font-size: 15px;
     line-height: 1.4;
   }
 
